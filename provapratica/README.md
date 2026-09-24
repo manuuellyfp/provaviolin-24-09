@@ -5,7 +5,6 @@ Aplicação web em React que funciona como um mural de avisos. Permite listar, p
 ## Como instalar
 
 ```bash
-cd provapratica
 npm install
 ```
 
